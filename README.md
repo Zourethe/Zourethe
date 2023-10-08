@@ -1,27 +1,17 @@
 # Zourethe
 
+Back-End student from Brazil focused on Data Engineering, Python, IAs and automations. I love to learn new things and I'm currently searching for new job opportunities.
+
 ## Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-silva-890b57270/)
-[![Twitter](https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=twitter)](https://twitter.com/Zourethe)
-[![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/zourethe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/pedro-silva-890b57270/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/Zourethe)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/zourethe/)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zourethe&theme=transparent&bg_color=transparent&border_color=FFFF&title_color=000&text_color=000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zourethe&bg_color=0d1117&border_color=0d1117&title_color=FFF&text_color=FFF)
 
 ## Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zourethe&bg_color=FFF&border_color=FFF&title_color=000&text_color=000)
-
-
-## Skills
-
-| Skill Name   | Skill Level  |
-| -------------|--------------|
-| Portuguese   | Native       |
-| English      | Intermediary |
-| Digital Draw | Intermediary |
-| Design       | Beginner     |
-| Management   | Beginner     |
-| French       | Learning     |
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zourethe&bg_color=0d1117&border_color=0d1117&title_color=FFF&text_color=FFF)
