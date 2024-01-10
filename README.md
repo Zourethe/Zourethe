@@ -2,6 +2,9 @@
 
 Back-End student from Brazil focused on Data Engineering, Python, IAs and automations. I love to learn new things and i'm currently searching for new job opportunities.
 
+![alt text](https://github.com/Zourethe/Zourethe/blob/main/wallpaper.png?raw=true)
+
+
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/pedro-silva-890b57270/)
