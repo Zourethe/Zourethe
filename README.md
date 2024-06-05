@@ -1,4 +1,12 @@
 # Zourethe
 
-I am not using GitHub anymore, all the repositories on this account are outdated.
-Please check my [GitLab profile](https://gitlab.com/zourethe) if you want to see my new projects.
+Back-End student from Brazil focused on Data Engineering, Python, IAs and automations. I love to learn new things and i'm currently searching for new job opportunities.
+
+![alt text](https://gitlab.com/zourethe/Zourethe/-/raw/main/finished.jpg?ref_type=heads)
+
+
+## Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1e24?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/pedro-augusto-890b57270)
+[![Twitter](https://img.shields.io/badge/Twitter-1f1e24?style=for-the-badge&logo=twitter&logoColor=FFF)](https://twitter.com/Zourethe)
+[![Instagram](https://img.shields.io/badge/Instagram-1f1e24?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/zourethe)
