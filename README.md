@@ -1,4 +1,4 @@
-![image](https://github.com/Zourethe/Zourethe/assets/96656100/fdddff81-5f25-4d9b-ad0a-0e3d5edd5789)# Zourethe
+# Zourethe
 
 Back-End student from Brazil focused on Data Engineering, Python, IAs and automations. I love to learn new things and i'm currently searching for new job opportunities.
 
