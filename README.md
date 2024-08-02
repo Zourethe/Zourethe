@@ -2,7 +2,7 @@
 
 Back-End student from Brazil focused on Data Engineering, Python, IAs and automations. I love to learn new things and i'm currently searching for new job opportunities.
 
-![alt text]([https://github.com/Zourethe/Zourethe/blob/main/wallpaper.jpg]_type=heads)
+![alt text](https://github.com/Zourethe/Zourethe/blob/main/wallpaper.jpg)
 
 
 ## Social
